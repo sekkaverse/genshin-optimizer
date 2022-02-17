@@ -39,6 +39,7 @@ import Xiao from './Xiao'
 import Xiangling from './Xiangling'
 import Xingqiu from './Xingqiu'
 import Xinyan from './Xinyan'
+import YaeMiko from './YaeMiko'
 import Yanfei from './Yanfei'
 import Yoimiya from './Yoimiya'
 import Zhongli from './Zhongli'
@@ -87,6 +88,7 @@ const characters: StrictDict<CharacterKey, ICharacterSheet> = {
   Xiangling,
   Xingqiu,
   Xinyan,
+  YaeMiko,
   Yanfei,
   Yoimiya,
   Zhongli

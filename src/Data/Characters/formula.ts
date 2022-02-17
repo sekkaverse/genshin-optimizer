@@ -39,6 +39,7 @@ import Xiao from './Xiao/data'
 import Xiangling from './Xiangling/data'
 import Xingqiu from './Xingqiu/data'
 import Xinyan from './Xinyan/data'
+import YaeMiko from './YaeMiko/data'
 import Yanfei from './Yanfei/data'
 import Yoimiya from './Yoimiya/data'
 import Zhongli from './Zhongli/data'
@@ -87,6 +88,7 @@ const formula: IFormulaSheets = {
   Xiangling,
   Xingqiu,
   Xinyan,
+  YaeMiko,
   Yanfei,
   Yoimiya,
   Zhongli
